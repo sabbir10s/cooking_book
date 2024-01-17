@@ -6,7 +6,9 @@ const Main = () => {
   return (
     <div className="font-SourceSans">
       <Navbar />
-      <Outlet />
+      <div>
+        <Outlet />
+      </div>
       <Footer />
     </div>
   );

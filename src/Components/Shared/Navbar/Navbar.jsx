@@ -65,7 +65,9 @@ const Navbar = () => {
   return (
     <nav
       className={`${
-        scrollY > 100 ? "shadow-lg bg-accent scroll-down " : " bg-white"
+        scrollY > 100
+          ? "shadow-lg scroll-down bg-white text-primary "
+          : "text-white "
       }`}
     >
       <div className="py-6 container mx-auto px-2 flex items-center justify-between">
