@@ -5,14 +5,16 @@ import { FiClock } from "react-icons/fi";
 const RecipeCard = ({ recipe }) => {
   const { image, title, description } = recipe;
   return (
-    <div className=" border rounded relative">
+    <div className=" border rounded relative group">
       <div className="absolute right-0 flex items-center justify-center gap-1 bg-primary-400 w-[80px] rounded-tr">
         <FiClock />
         <span> 30 min</span>
       </div>
       <img className="rounded-t" src={image} alt="" />
       <div className="p-4">
-        <h4 className="text-2xl text-secondary font-semibold">{title}</h4>
+        <h4 className="text-2xl text-secondary font-semibold group-hover:underline duration-300">
+          {title}
+        </h4>
         <p className="text-sm text-gray-500">{description.slice(0, 80)}...</p>
       </div>
       <div className="grid grid-cols-2 items-center">
