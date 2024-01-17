@@ -24,7 +24,7 @@ const slides = [
   },
 ];
 
-const Slider = () => {
+const HeroSlider = () => {
   const [currentSlide, setCurrentSlide] = useState(0);
 
   const nextSlide = () => {
@@ -105,4 +105,4 @@ const Slider = () => {
   );
 };
 
-export default Slider;
+export default HeroSlider;

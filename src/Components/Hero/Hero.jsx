@@ -1,8 +1,8 @@
-import Slider from "../Home/Slider/Slider";
+import HeroSlider from "../Home/Slider/HeroSlider";
 const Hero = () => {
   return (
     <div className="relative h-screen">
-      <Slider />
+      <HeroSlider />
     </div>
   );
 };
