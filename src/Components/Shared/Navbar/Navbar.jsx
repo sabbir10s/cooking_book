@@ -9,12 +9,8 @@ const navItems = [
     link: "/",
   },
   {
-    name: "About",
-    link: "about",
-  },
-  {
-    name: "Projects",
-    link: "projects",
+    name: "News",
+    link: "news",
   },
   {
     name: "Contact",
@@ -72,9 +68,9 @@ const Navbar = () => {
     >
       <div className="py-6 container mx-auto px-2 flex items-center justify-between">
         <span className="scroll-watcher"></span>
-        <div className="flex items-center">
+        <Link to="/" className="flex items-center">
           <img className="w-[120px]" src={logo} alt="" />
-        </div>
+        </Link>
 
         <div>
           <div className="hidden md:block space-x-10 ">

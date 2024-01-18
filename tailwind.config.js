@@ -37,6 +37,9 @@ export default {
       fontFamily: {
         poppins: ["Poppins", "sans-serif"],
       },
+      backgroundImage: {
+        'pageTitle': "url('/src/Assets/Images/page-title.jpg')",
+      }
     },
     screens: {
       xs: "480px",
