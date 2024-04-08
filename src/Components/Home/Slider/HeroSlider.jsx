@@ -3,7 +3,7 @@ import { useState, useEffect } from "react";
 import { IoIosArrowBack, IoIosArrowForward } from "react-icons/io";
 import { CSSTransition, TransitionGroup } from "react-transition-group";
 import "./Slider.css";
-import { Link } from "react-router-dom";
+import { useNavigate } from "react-router-dom";
 
 const HeroSlider = ({ recipes }) => {
   const [currentSlide, setCurrentSlide] = useState(0);
@@ -31,6 +31,8 @@ const HeroSlider = ({ recipes }) => {
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
+  const navigate = useNavigate();
+
   return (
     <div className="h-screen flex items-center justify-center">
       <div className="bg-gray-800/70 absolute h-screen w-full z-10"></div>
@@ -55,12 +57,14 @@ const HeroSlider = ({ recipes }) => {
                     <p className="text-base md:text-lg mb-4 text-white details">
                       {recipes[currentSlide].description.slice(0, 70)}
                     </p>
-                    <Link
-                      to={recipes[currentSlide].title}
+                    <button
+                      onClick={() =>
+                        navigate(`/recipe/${recipes[currentSlide]._id}`)
+                      }
                       className="text-white px-10 py-2.5 hover:bg-primary-700 transition duration-300 text-sm sm:text-base bg-primary-600 button"
                     >
                       Details
-                    </Link>
+                    </button>
                   </div>
                 </div>
               </div>

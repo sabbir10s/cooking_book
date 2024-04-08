@@ -2,9 +2,11 @@ import axios from "axios";
 import { useEffect, useState } from "react";
 const URL = "/public/recipes.json";
 import { FiClock } from "react-icons/fi";
+import { useNavigate } from "react-router-dom";
 
 const PopularRecipes = () => {
   const [recipes, setRecipes] = useState();
+  const navigate = useNavigate();
   useEffect(() => {
     axios.get(URL).then((res) => {
       setRecipes(res.data);
@@ -13,12 +15,14 @@ const PopularRecipes = () => {
   if (!recipes) {
     return <>Loading</>;
   }
+
   return (
     <div className="container mx-auto px-2">
       <h3 className="py-6 text-2xl font-medium">Most Popular Recipes</h3>
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-10">
         {recipes.slice(0, 3).map(({ _id, image, title, description }, idx) => (
-          <div
+          <button
+            onClick={() => navigate(`/recipe/${_id}`)}
             key={_id}
             className={`border rounded relative flex flex-col justify-between  ${
               idx === 0 ? `sm:col-span-2 h-full row-span-2` : "col-span-1"
@@ -71,7 +75,7 @@ const PopularRecipes = () => {
                 <p className=" text-sm">24 Oct 2023</p>
               </div>
             </div>
-          </div>
+          </button>
         ))}
       </div>
     </div>

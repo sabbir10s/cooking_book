@@ -4,10 +4,13 @@ import { FiClock } from "react-icons/fi";
 import { Link, useNavigate } from "react-router-dom";
 
 const RecipeCard = ({ recipe }) => {
-  const { image, title, description } = recipe;
+  const { _id, image, title, description } = recipe;
   const navigate = useNavigate();
   return (
-    <Link to="/details" className="border rounded relative">
+    <button
+      onClick={() => navigate(`/recipe/${_id}`)}
+      className="border rounded relative"
+    >
       <div className="absolute right-5 top-5 flex items-center justify-center gap-1 bg-primary-400 w-[80px] rounded-tr">
         <FiClock />
         <span> 30 min</span>
@@ -43,7 +46,7 @@ const RecipeCard = ({ recipe }) => {
           <p className=" text-sm">24 Oct 2023</p>
         </div>
       </div>
-    </Link>
+    </button>
   );
 };
 

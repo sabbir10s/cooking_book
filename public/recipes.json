@@ -4,7 +4,45 @@
     "strCategory": "Lamb",
     "title": "Rice Pilaf & Carrots",
     "image": "https://gossip-themes.com/foodior/wp-content/uploads/2022/11/ella-olsson-KPDbRyFOTnE-unsplash_1.jpg",
-    "description": "Lamb, hogget, and mutton are the meat of domestic sheep (species Ovis aries) at different ages.\r\n\r\nA sheep in its first year is called a lamb, and its meat is also called lamb. The meat of a juvenile sheep older than one year is hogget; outside the USA this is also a term for the living animal. The meat of an adult sheep is mutton, a term only used for the meat, not the living animals. The term mutton is almost always used to refer to goat meat in the Indian subcontinent.\r\n\r\n"
+    "tag": ["Greek", "Vegetarian"],
+    "preparationTime": 15,
+    "cookTime": 25,
+    "calories": 300,
+    "description": "The literal translation of Nasi Goreng is “fried rice” in Indonesian and Malaysian – and that’s exactly what it is! It’s mainly rice with just a little bit of meat and just onion for the vegetables. The thing that distinguishes it from other Fried Rice dishes is the sauce which is made with kecap manis, a sweet soy sauce that stains the rice dark brown and caramelises the rice when it cooks.",
+    "ingredients": [
+      {
+        "name": "4 cups French bread (cut into bite-size pieces and dried overnight)"
+      },
+      {
+        "name": "3 eggs"
+      },
+      {
+        "name": "3/4 cups milk"
+      },
+      {
+        "name": "1 teaspoon vanilla"
+      },
+      {
+        "name": "1/4 cup sugar"
+      }
+    ],
+    "steps": [
+      {
+        "description": "Soak chopped onions in water: Place the chopped onions in a small bowl of water. This will help take the edge off the onions. Let sit while you prepare the rest of the salad."
+      },
+      {
+        "description": "Blanch the green beans: Bring a large pot of salted water to a boil (2 Tbsp salt for 2 quarts of water). Add the green beans to the water and blanch only for about 2 minutes or so, until the beans are just barely cooked through, but still crisp."
+      },
+      {
+        "description": "Bring a large pot of salted water to a boil (2 Tbsp salt for 2 quarts of water). Add the green beans to the water and blanch only for about 2 minutes or so, until the beans are just barely cooked through, but still crisp. Fresh young beans should cook quickly. Older, tougher beans may take longer. While the beans are cooking, prepare a large bowl of ice water. When the beans are ready, use a slotted spoon to remove them from the boiling water to the ice water to stop the cooking. Drain the green beans and the red onions."
+      },
+      {
+        "description": "Toss with red onion, balsamic, Parmesan: Place the green beans, red onion, and chopped basil in a large bowl. Sprinkle in the olive oil, toss to coat. Sprinkle in the balsamic and Parmesan cheese. Toss to combine. Season to taste with salt and freshly ground black pepper."
+      },
+      {
+        "description": "Chill until ready to serve.  Overlap the cucumber and tomato on the side of each plate, sprinkle over the crispy fried onions."
+      }
+    ]
   },
 
   {
@@ -12,21 +50,135 @@
     "strCategory": "Chicken",
     "title": "Tofu and Cheese Pancakes",
     "image": "https://gossip-themes.com/foodior/wp-content/uploads/2022/11/brandy-s-mENa6dWQIKo-unsplash-823x500.webp",
-    "description": "Chicken is a type of domesticated fowl, a subspecies of the red junglefowl. It is one of the most common and widespread domestic animals, with a total population of more than 19 billion as of 2011.[1] Humans commonly keep chickens as a source of food (consuming both their meat and eggs) and, more rarely, as pets."
+    "tag": ["Greek", "Vegetarian"],
+    "preparationTime": 15,
+    "cookTime": 25,
+    "calories": 300,
+    "description": "The literal translation of Nasi Goreng is “fried rice” in Indonesian and Malaysian – and that’s exactly what it is! It’s mainly rice with just a little bit of meat and just onion for the vegetables. The thing that distinguishes it from other Fried Rice dishes is the sauce which is made with kecap manis, a sweet soy sauce that stains the rice dark brown and caramelises the rice when it cooks.",
+    "ingredients": [
+      {
+        "name": "4 cups French bread (cut into bite-size pieces and dried overnight)"
+      },
+      {
+        "name": "3 eggs"
+      },
+      {
+        "name": "3/4 cups milk"
+      },
+      {
+        "name": "1 teaspoon vanilla"
+      },
+      {
+        "name": "1/4 cup sugar"
+      }
+    ],
+    "steps": [
+      {
+        "description": "Soak chopped onions in water: Place the chopped onions in a small bowl of water. This will help take the edge off the onions. Let sit while you prepare the rest of the salad."
+      },
+      {
+        "description": "Blanch the green beans: Bring a large pot of salted water to a boil (2 Tbsp salt for 2 quarts of water). Add the green beans to the water and blanch only for about 2 minutes or so, until the beans are just barely cooked through, but still crisp."
+      },
+      {
+        "description": "Bring a large pot of salted water to a boil (2 Tbsp salt for 2 quarts of water). Add the green beans to the water and blanch only for about 2 minutes or so, until the beans are just barely cooked through, but still crisp. Fresh young beans should cook quickly. Older, tougher beans may take longer. While the beans are cooking, prepare a large bowl of ice water. When the beans are ready, use a slotted spoon to remove them from the boiling water to the ice water to stop the cooking. Drain the green beans and the red onions."
+      },
+      {
+        "description": "Toss with red onion, balsamic, Parmesan: Place the green beans, red onion, and chopped basil in a large bowl. Sprinkle in the olive oil, toss to coat. Sprinkle in the balsamic and Parmesan cheese. Toss to combine. Season to taste with salt and freshly ground black pepper."
+      },
+      {
+        "description": "Chill until ready to serve.  Overlap the cucumber and tomato on the side of each plate, sprinkle over the crispy fried onions."
+      }
+    ]
   },
   {
     "_id": "3",
     "strCategory": "Dessert",
     "title": "Salmon Pasta Pomodoro",
     "image": "https://gossip-themes.com/foodior/wp-content/uploads/2022/11/mariana-medvedeva-iNwCO9ycBlc-unsplash.webp",
-    "description": "Dessert is a course that concludes a meal. The course usually consists of sweet foods, such as confections dishes or fruit, and possibly a beverage such as dessert wine or liqueur, however in the United States it may include coffee, cheeses, nuts, or other savory items regarded as a separate course elsewhere. In some parts of the world, such as much of central and western Africa, and most parts of China, there is no tradition of a dessert course to conclude a meal.\r\n\r\nThe term dessert can apply to many confections, such as biscuits, cakes, cookies, custards, gelatins, ice creams, pastries, pies, puddings, and sweet soups, and tarts. Fruit is also commonly found in dessert courses because of its naturally occurring sweetness. Some cultures sweeten foods that are more commonly savory to create desserts."
+    "tag": ["Greek", "Vegetarian"],
+    "preparationTime": 15,
+    "cookTime": 25,
+    "calories": 300,
+    "description": "The literal translation of Nasi Goreng is “fried rice” in Indonesian and Malaysian – and that’s exactly what it is! It’s mainly rice with just a little bit of meat and just onion for the vegetables. The thing that distinguishes it from other Fried Rice dishes is the sauce which is made with kecap manis, a sweet soy sauce that stains the rice dark brown and caramelises the rice when it cooks.",
+    "ingredients": [
+      {
+        "name": "4 cups French bread (cut into bite-size pieces and dried overnight)"
+      },
+      {
+        "name": "3 eggs"
+      },
+      {
+        "name": "3/4 cups milk"
+      },
+      {
+        "name": "1 teaspoon vanilla"
+      },
+      {
+        "name": "1/4 cup sugar"
+      }
+    ],
+    "steps": [
+      {
+        "description": "Soak chopped onions in water: Place the chopped onions in a small bowl of water. This will help take the edge off the onions. Let sit while you prepare the rest of the salad."
+      },
+      {
+        "description": "Blanch the green beans: Bring a large pot of salted water to a boil (2 Tbsp salt for 2 quarts of water). Add the green beans to the water and blanch only for about 2 minutes or so, until the beans are just barely cooked through, but still crisp."
+      },
+      {
+        "description": "Bring a large pot of salted water to a boil (2 Tbsp salt for 2 quarts of water). Add the green beans to the water and blanch only for about 2 minutes or so, until the beans are just barely cooked through, but still crisp. Fresh young beans should cook quickly. Older, tougher beans may take longer. While the beans are cooking, prepare a large bowl of ice water. When the beans are ready, use a slotted spoon to remove them from the boiling water to the ice water to stop the cooking. Drain the green beans and the red onions."
+      },
+      {
+        "description": "Toss with red onion, balsamic, Parmesan: Place the green beans, red onion, and chopped basil in a large bowl. Sprinkle in the olive oil, toss to coat. Sprinkle in the balsamic and Parmesan cheese. Toss to combine. Season to taste with salt and freshly ground black pepper."
+      },
+      {
+        "description": "Chill until ready to serve.  Overlap the cucumber and tomato on the side of each plate, sprinkle over the crispy fried onions."
+      }
+    ]
   },
   {
     "_id": "4",
     "strCategory": "Beef",
     "title": "Baked Chicken Breast",
     "image": "https://gossip-themes.com/foodior/wp-content/uploads/2022/11/sina-piryae-bBzjWthTqb8-unsplash.webp",
-    "description": "Beef is the culinary name for meat from cattle, particularly skeletal muscle. Humans have been eating beef since prehistoric times.[1] Beef is a source of high-quality protein and essential nutrients.[2]"
+    "tag": ["Greek", "Vegetarian"],
+    "preparationTime": 15,
+    "cookTime": 25,
+    "calories": 300,
+    "description": "The literal translation of Nasi Goreng is “fried rice” in Indonesian and Malaysian – and that’s exactly what it is! It’s mainly rice with just a little bit of meat and just onion for the vegetables. The thing that distinguishes it from other Fried Rice dishes is the sauce which is made with kecap manis, a sweet soy sauce that stains the rice dark brown and caramelises the rice when it cooks.",
+    "ingredients": [
+      {
+        "name": "4 cups French bread (cut into bite-size pieces and dried overnight)"
+      },
+      {
+        "name": "3 eggs"
+      },
+      {
+        "name": "3/4 cups milk"
+      },
+      {
+        "name": "1 teaspoon vanilla"
+      },
+      {
+        "name": "1/4 cup sugar"
+      }
+    ],
+    "steps": [
+      {
+        "description": "Soak chopped onions in water: Place the chopped onions in a small bowl of water. This will help take the edge off the onions. Let sit while you prepare the rest of the salad."
+      },
+      {
+        "description": "Blanch the green beans: Bring a large pot of salted water to a boil (2 Tbsp salt for 2 quarts of water). Add the green beans to the water and blanch only for about 2 minutes or so, until the beans are just barely cooked through, but still crisp."
+      },
+      {
+        "description": "Bring a large pot of salted water to a boil (2 Tbsp salt for 2 quarts of water). Add the green beans to the water and blanch only for about 2 minutes or so, until the beans are just barely cooked through, but still crisp. Fresh young beans should cook quickly. Older, tougher beans may take longer. While the beans are cooking, prepare a large bowl of ice water. When the beans are ready, use a slotted spoon to remove them from the boiling water to the ice water to stop the cooking. Drain the green beans and the red onions."
+      },
+      {
+        "description": "Toss with red onion, balsamic, Parmesan: Place the green beans, red onion, and chopped basil in a large bowl. Sprinkle in the olive oil, toss to coat. Sprinkle in the balsamic and Parmesan cheese. Toss to combine. Season to taste with salt and freshly ground black pepper."
+      },
+      {
+        "description": "Chill until ready to serve.  Overlap the cucumber and tomato on the side of each plate, sprinkle over the crispy fried onions."
+      }
+    ]
   },
 
   {
@@ -34,13 +186,89 @@
     "strCategory": "Miscellaneous",
     "title": "Raspberry Tartlet",
     "image": "https://gossip-themes.com/foodior/wp-content/uploads/2022/11/micheile-dot-com-WhcNJfhGiOk-unsplash.webp",
-    "description": "General foods that don't fit into another category"
+    "tag": ["Greek", "Vegetarian"],
+    "preparationTime": 15,
+    "cookTime": 25,
+    "calories": 300,
+    "description": "The literal translation of Nasi Goreng is “fried rice” in Indonesian and Malaysian – and that’s exactly what it is! It’s mainly rice with just a little bit of meat and just onion for the vegetables. The thing that distinguishes it from other Fried Rice dishes is the sauce which is made with kecap manis, a sweet soy sauce that stains the rice dark brown and caramelises the rice when it cooks.",
+    "ingredients": [
+      {
+        "name": "4 cups French bread (cut into bite-size pieces and dried overnight)"
+      },
+      {
+        "name": "3 eggs"
+      },
+      {
+        "name": "3/4 cups milk"
+      },
+      {
+        "name": "1 teaspoon vanilla"
+      },
+      {
+        "name": "1/4 cup sugar"
+      }
+    ],
+    "steps": [
+      {
+        "description": "Soak chopped onions in water: Place the chopped onions in a small bowl of water. This will help take the edge off the onions. Let sit while you prepare the rest of the salad."
+      },
+      {
+        "description": "Blanch the green beans: Bring a large pot of salted water to a boil (2 Tbsp salt for 2 quarts of water). Add the green beans to the water and blanch only for about 2 minutes or so, until the beans are just barely cooked through, but still crisp."
+      },
+      {
+        "description": "Bring a large pot of salted water to a boil (2 Tbsp salt for 2 quarts of water). Add the green beans to the water and blanch only for about 2 minutes or so, until the beans are just barely cooked through, but still crisp. Fresh young beans should cook quickly. Older, tougher beans may take longer. While the beans are cooking, prepare a large bowl of ice water. When the beans are ready, use a slotted spoon to remove them from the boiling water to the ice water to stop the cooking. Drain the green beans and the red onions."
+      },
+      {
+        "description": "Toss with red onion, balsamic, Parmesan: Place the green beans, red onion, and chopped basil in a large bowl. Sprinkle in the olive oil, toss to coat. Sprinkle in the balsamic and Parmesan cheese. Toss to combine. Season to taste with salt and freshly ground black pepper."
+      },
+      {
+        "description": "Chill until ready to serve.  Overlap the cucumber and tomato on the side of each plate, sprinkle over the crispy fried onions."
+      }
+    ]
   },
   {
     "_id": "6",
     "strCategory": "Pasta",
     "title": "Chinese Veggie Stir Fry",
     "image": "https://gossip-themes.com/foodior/wp-content/uploads/2022/11/micheile-dot-com-WhcNJfhGiOk-unsplash.webp",
-    "description": "Pasta is a staple food of traditional Italian cuisine, with the first reference dating to 1154 in Sicily.\r\n\r\nAlso commonly used to refer to the variety of pasta dishes, pasta is typically a noodle made from an unleavened dough of a durum wheat flour mixed with water or eggs and formed into sheets or various shapes, then cooked by boiling or baking. As an alternative for those wanting a different taste, or who need to avoid products containing gluten, some pastas can be made using rice flour in place of wheat.[3][4] Pastas may be divided into two broad categories, dried (pasta secca) and fresh (pasta fresca)."
+    "tag": ["Greek", "Vegetarian"],
+    "preparationTime": 15,
+    "cookTime": 25,
+    "calories": 300,
+    "description": "The literal translation of Nasi Goreng is “fried rice” in Indonesian and Malaysian – and that’s exactly what it is! It’s mainly rice with just a little bit of meat and just onion for the vegetables. The thing that distinguishes it from other Fried Rice dishes is the sauce which is made with kecap manis, a sweet soy sauce that stains the rice dark brown and caramelises the rice when it cooks.",
+    "ingredients": [
+      {
+        "name": "4 cups French bread (cut into bite-size pieces and dried overnight)"
+      },
+      {
+        "name": "3 eggs"
+      },
+      {
+        "name": "3/4 cups milk"
+      },
+      {
+        "name": "1 teaspoon vanilla"
+      },
+      {
+        "name": "1/4 cup sugar"
+      }
+    ],
+    "steps": [
+      {
+        "description": "Soak chopped onions in water: Place the chopped onions in a small bowl of water. This will help take the edge off the onions. Let sit while you prepare the rest of the salad."
+      },
+      {
+        "description": "Blanch the green beans: Bring a large pot of salted water to a boil (2 Tbsp salt for 2 quarts of water). Add the green beans to the water and blanch only for about 2 minutes or so, until the beans are just barely cooked through, but still crisp."
+      },
+      {
+        "description": "Bring a large pot of salted water to a boil (2 Tbsp salt for 2 quarts of water). Add the green beans to the water and blanch only for about 2 minutes or so, until the beans are just barely cooked through, but still crisp. Fresh young beans should cook quickly. Older, tougher beans may take longer. While the beans are cooking, prepare a large bowl of ice water. When the beans are ready, use a slotted spoon to remove them from the boiling water to the ice water to stop the cooking. Drain the green beans and the red onions."
+      },
+      {
+        "description": "Toss with red onion, balsamic, Parmesan: Place the green beans, red onion, and chopped basil in a large bowl. Sprinkle in the olive oil, toss to coat. Sprinkle in the balsamic and Parmesan cheese. Toss to combine. Season to taste with salt and freshly ground black pepper."
+      },
+      {
+        "description": "Chill until ready to serve.  Overlap the cucumber and tomato on the side of each plate, sprinkle over the crispy fried onions."
+      }
+    ]
   }
 ]
