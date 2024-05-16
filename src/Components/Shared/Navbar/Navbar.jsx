@@ -16,6 +16,10 @@ const navItems = [
     name: "Contact",
     link: "contact",
   },
+  {
+    name: "Doctor",
+    link: "doctor",
+  },
 ];
 const Navbar = () => {
   const [scrollY, setScrollY] = useState(0);
